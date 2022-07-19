@@ -25,6 +25,8 @@
         </button>
     </form>
 
+    <a href="/books/{{$book-> id}}/edit">Edit</a>
+
 
 </body>
 
